@@ -1,4 +1,5 @@
 package poker;
+//DREW MADDEN, JOHN ORIBIOYE, AYLIN DINDI, MICHAEL MATIMU, ARNOLD RIVERS
 import java.util.Comparator;
 
 public final class Card {
